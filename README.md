@@ -1,2 +1,2 @@
-# dashboard_implementation
- Dashboard frontend implementation
+# Dashboard Implementation
+ Dashboard frontend implementation using React
